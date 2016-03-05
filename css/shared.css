@@ -1,0 +1,14 @@
+body {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h2 {
+  font-size: 2.0em;
+  font-weight: strong;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-bottom: 5px;
+}
