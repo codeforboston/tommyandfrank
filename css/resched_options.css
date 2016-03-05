@@ -1,0 +1,15 @@
+h2,div { 
+	width: 80%;
+	margin: 20px 10%; 
+}
+a { 
+	text-decoration: none;
+	color: black;
+}
+.option { 
+	height: 70px;
+	line-height: 70px;
+	border: 1px solid black;
+	text-align: center; 
+	cursor: pointer;
+}
