@@ -1,0 +1,16 @@
+body {
+  text-align: left;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+div {
+  margin: 20px 0;
+}
+.rejected {
+  color: red;
+  font-weight: 700;
+}
+.notes_header {
+  font-weight: 700;
+  text-decoration: underline;
+}
