@@ -35,7 +35,7 @@ Frank is a Probation Officer
 
 # Project Credits
 
-Project worked on by a bunch of rad dudes in association with CodeAcross Boston
+Project worked on by a bunch of rad dudettes and dudes in association with CodeAcross Boston
 and Resilient Coders
 
 ![Resilient Coder Logo](https://resilientcoders.s3.amazonaws.com/i/logo_skull.png)

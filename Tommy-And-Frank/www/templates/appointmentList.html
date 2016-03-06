@@ -1,10 +1,9 @@
-<ion-view view-title="request rejected">
+<ion-view view-title="Account">
   <ion-content>
-  <h1>Get in touch with Tommy!</h1>
-  <div class="row">
-  <button class="button icon-left ion-star button-positive col col-50">send msg</button>
-    <button class="button icon-left ion-star button-positive col col-50">HOME</button>
-</div> 
-    
+    <ion-list>
+    <ion-toggle  ng-model="settings.enableFriends">
+        Enable Friends
+    </ion-toggle>
+    </ion-list>
   </ion-content>
 </ion-view>
