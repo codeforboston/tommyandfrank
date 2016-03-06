@@ -33,11 +33,12 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
   // setup an abstract state for the tabs directive
     .state('appointmentList', {
-    url: '/appointmentList',
+    url: '/appointmentList',    
     templateUrl: 'templates/appointmentList.html'
-  });
+  })
+
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab');
+  $urlRouterProvider.otherwise('/appointmentList');
 
 });
