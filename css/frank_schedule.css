@@ -1,0 +1,29 @@
+h2,div {
+	margin: 0 10% 20px 10%;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.appointment {
+	padding: 35px;
+	border: 1px solid #eee;
+	border-radius: 2px;
+	cursor: pointer;
+	background-color: white;
+	text-align: left;
+}
+.appointment p:not(:last-of-type) {
+	margin-bottom: 8px;
+}
+.name {
+	font-size: 22;
+}
+.weekday {
+	font-weight: 700;
+	margin-right: 10px;
+}
+.change {
+	color: red;
+	font-weight: 700;
+}
