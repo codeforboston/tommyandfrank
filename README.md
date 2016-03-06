@@ -7,6 +7,10 @@ see below)
 
 He used to work on the docks.
 Union's been on strike
+He's down on his luck. It's tough.
+
+Team collaborates on Slack: https://cfb-public.slack.com/archives/tommy-and-frank
+
 
 ### Tommy behaviors: 
 
