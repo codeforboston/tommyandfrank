@@ -31,22 +31,44 @@ li a {
     display: block;
 }
 
-/* unvisited link */
+/* 
 a:link {
     color: red;
 }
 
-/* visited link */
 a:visited {
     color: green;
 }
 
-/* mouse over link */
 a:hover {
     color: hotpink;
 }
 
-/* selected link */
 a:active {
     color: blue;
+}
+*/
+
+h2,div {
+	margin: 0 10% 20px 10%;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.option {
+	padding: 35px;
+	border: 1px solid #eee;
+	border-radius: 2px;
+	cursor: pointer;
+	background-color: white;
+	text-align: left;
+}
+.option p:first-of-type {
+	margin-bottom: 8px;
+}
+
+.weekday {
+  font-weight: 700;
+  margin-right: 10px;
 }
