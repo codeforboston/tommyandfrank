@@ -6,6 +6,7 @@ Tommy is on Probation, and needs to maintain contact with a Probation Officer (F
 see below)
 
 He used to work on the docks.
+Union's been on strike
 
 ### Tommy behaviors: 
 
